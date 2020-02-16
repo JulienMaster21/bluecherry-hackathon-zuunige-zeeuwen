@@ -1,1 +1,4 @@
 bluecherry-hackathon-zuunige-zeeuwen.code-workspace
+.vscode/
+node_modules/
+bluecherry
